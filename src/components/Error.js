@@ -1,0 +1,15 @@
+import React from 'react';
+
+const Error = () => {
+    return (
+        <div>
+            <h2 className='animate-'>Undefined dada vai</h2>
+
+            <div className='flex justify-center items-center min-h-screen'>
+                <div className='w-16 h-16 border-4 border-dashed rounded-full animate-spin border-gray-800'></div>
+            </div>
+        </div>
+    );
+};
+
+export default Error;

@@ -1,13 +1,21 @@
+
+import 'react-toastify/dist/ReactToastify.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { RouterProvider } from 'react-router-dom';
+import { routes } from './Routes/routes';
+import UserContext from './context/UserContext';
+import { ToastContainer } from 'react-toastify';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <UserContext>    
+      <ToastContainer position='top-center'></ToastContainer>
+      <RouterProvider router={routes}></RouterProvider>
+</UserContext>
   </React.StrictMode>
 );
 

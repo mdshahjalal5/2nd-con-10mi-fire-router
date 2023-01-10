@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+>### starter: https://github.com/shakilahmedatik/authentech-starter
+>### Complete: https://github.com/shakilahmedatik/authentech-complete 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> [complete](https://github.com/shakilahmedatik/authentech-complete )
 
-## Available Scripts
+# # React er uc  tail term  => tailwind => terminal => userContext.js
+> # Re dom scri tem  => react react-dom react-scripts cra-template (installed by create-react-app)
+> tail => Centercontext => container=> text feight 9 => center(vertically & horizontally) => x fitem center een => flex justify-center items-center min-h-screen => een = animation => spin ping bounce pul -> pulse 
+> con ful wi me 5  => width => @media()
+> text-xl to text-9xl (font-size, line-height)
+# term => td ls pwd L cd dir => time date presentDirectory => L = clean terminal => 
+# uc => userContext.js (cf => customFunction) 
+> con h m => context => hooks => method
+> con => cre pro value use => createCon => con.Provider => value => use
+> h(hooks) => state, effect => 
+> state => load user => 
+> effect > useEffect > clean ob 
+ ** uc => x => chil pro  => uc return Context.Provider children app.js (*Imp)
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+by create-react-app installed 
+# Re dom scri tem  => react react-dom react-scripts cra-template 
+# #React er uc tail term 
+# text feight 9 
+text-xl to text-9xl {
+    font-size:'', 
+    line-height: '', 
+}
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- Sun, Jan  8, 2023  6:56:05 AM -->
+# Meta link => utf 8 => 
+# uc  wrap => toast app => uc children <ToastContainer>  & <App>
+# Font-weight => thin ex li nor me semi bold ex bla 
+> => thin=> extra-light=> light -> normal -> medium -> semi-bold -> bold -> extra-bold -> black 
+# meaning of sm:text-6xl (upper 640 l )
 
-### `npm run build`
+ <!-- Mon, Jan  9, 2023  7:52:34 AM -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ #  d-break => Navi  navi(useNavi)
+    
+  > <Navi > state => navi rom re true 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    # state rom lo => from location 
+  > rom => from, replace true 
+  > destination break => <Navigate state={from:location}>
+  > navigate(from, {replace:true})
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  # ui com call ==> to see ui must call component or render html 
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ # ??? tasks of robots.txt file (explain it )
